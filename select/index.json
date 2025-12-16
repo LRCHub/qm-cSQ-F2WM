@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "まなざし",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2025-12-16T06:18:34.650084Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "まなざし",
+      "artist": "anNina",
+      "has_synced": false,
+      "path": "select/01_まなざし_anNina.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "まなざし☆デイドリーム",
+      "artist": "Yu Sakai",
+      "has_synced": false,
+      "path": "select/02_まなざし☆デイドリーム_Yu_Sakai.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "まなざし - instrumental",
+      "artist": "anNina",
+      "has_synced": false,
+      "path": "select/03_まなざし_-_instrumental_anNina.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "まなざし",
+      "artist": "Honey L Days",
+      "has_synced": true,
+      "path": "select/04_まなざし_Honey_L_Days.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "まなざし instrumental",
+      "artist": "anNina",
+      "has_synced": false,
+      "path": "select/05_まなざし_instrumental_anNina.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "まなざし",
+      "artist": "TVXQ!",
+      "has_synced": true,
+      "path": "select/06_まなざし_TVXQ!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "まなざし／MANAZASHI",
+      "artist": "동방신기",
+      "has_synced": true,
+      "path": "select/07_まなざし_MANAZASHI_동방신기.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "まなざし",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/08_まなざし_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "まなざし",
+      "artist": "People In The Box",
+      "has_synced": true,
+      "path": "select/09_まなざし_People_In_The_Box.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まなざし",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_まなざし_SUPER_BEAVER.txt"
+    }
+  ]
+}
